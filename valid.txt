@@ -1,0 +1,13 @@
+text:Are you still finding activities that were pleasurable to be pleasurable now?	labels:Yeah. Well, I mean, sometimes an activity that I like, someone will come along and like I'll get distracted during it by something that like irritates me. But for the most part, I can get over it and like enjoy the activity if it's something I genuinely enjoy. 
+text:You change your appetite.	labels:No. 
+text:How about any feelings of worthlessness?	labels:No. Nothing like that.  
+text:You mentioned that you're being distracted easily. It's affecting your concentration.	labels:A little bit. 
+text:Do you have any thoughts regarding death or dying?	labels:No. Like that. 
+text:And this irritable mood has been bothering you work any and you mentioned driving home and the other places.	labels:I mean, yeah, just because it's not just at work and driving home like, you know, something my mom said on the phone The other day irritated me. And then I cut the phone call shore and I get to talk to my dad, because I was mad. And so that like affected that. So a little bit of like, my personal life to 
+text:any drug or alcohol usage. There's really nothing.	labels:No 
+text:Have you ever seen or heard things other people can't see or hear?	labels:No,  
+text:that's never happened.	labels:No 
+text:Okay. I like to get you in to see somebody today. That's okay. We have a counselor that's available that can talk to some more about this. That'd be all right.	labels:All right,  
+text:so I'll get that arranged. And I want to thank you for answering these questions has been helpful. How are you Today?, Are you fine? 	labels:Yeah. 
+text:I'm glad you could come in today or the syntek. Want to explain a little bit about the process? I understand you've already completed the informed consent.	labels:Yes. Yeah, I've done this before. 
+text:So you've done this before.	labels:Yeah 
