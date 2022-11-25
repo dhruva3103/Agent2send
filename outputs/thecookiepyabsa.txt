@@ -1,0 +1,201 @@
+User input recording
+
+Input 1:
+This is 1st message
+
+--- Input Text: start
+
+Prediction: Neutral | Confidence: 0.9168121218681335--- Confidence for each classes
+[('Negative', 0.03898053), ('Neutral', 0.9168121), ('Positive', 0.044207405)]
+
+
+Average:
+Confidence for each classes
+      class  confidence
+0  Negative    0.038981
+1   Neutral    0.916812
+2  Positive    0.044207
+
+Prediction: Positive | Confidence: 0.04420740529894829
+Call chat bot model for Positive
+
+Input 2:
+This is 2nd message
+
+--- Input Text: start
+
+Prediction: Neutral | Confidence: 0.9168121218681335--- Confidence for each classes
+[('Negative', 0.03898053), ('Neutral', 0.9168121), ('Positive', 0.044207405)]
+
+Average:
+Confidence for each classes
+      class  confidence
+0  Negative    0.038981
+1   Neutral    0.916812
+2  Positive    0.044207
+
+Prediction: Positive | Confidence: 0.04420740529894829
+Call chat bot model for Positive
+
+Input 3:
+This is 3rd message
+
+--- Input Text: start
+
+Prediction: Neutral | Confidence: 0.9168121218681335--- Confidence for each classes
+[('Negative', 0.03898053), ('Neutral', 0.9168121), ('Positive', 0.044207405)]
+
+Average:
+Confidence for each classes
+      class  confidence
+0  Negative    0.038981
+1   Neutral    0.916812
+2  Positive    0.044207
+
+Prediction: Neutral | Confidence: 0.9168121218681335
+Call chat bot model for Neutral
+
+Input 4:
+This is 4th message
+
+--- Input Text: start
+
+Prediction: Neutral | Confidence: 0.9168121218681335--- Confidence for each classes
+[('Negative', 0.03898053), ('Neutral', 0.9168121), ('Positive', 0.044207405)]
+
+Average:
+Confidence for each classes
+      class  confidence
+0  Negative    0.038981
+1   Neutral    0.916812
+2  Positive    0.044207
+
+Prediction: Neutral | Confidence: 0.9168121218681335
+Call chat bot model for Neutral
+
+Input 5:
+This is 5th message
+
+--- Input Text: start
+
+Prediction: Neutral | Confidence: 0.9168121218681335--- Confidence for each classes
+[('Negative', 0.03898053), ('Neutral', 0.9168121), ('Positive', 0.044207405)]
+
+Average:
+Confidence for each classes
+      class  confidence
+0  Negative    0.038981
+1   Neutral    0.916812
+2  Positive    0.044207
+
+Prediction: Neutral | Confidence: 0.9168121218681335
+Call chat bot model for Neutral
+
+Input 6:
+This is 6th message
+
+--- Input Text: start
+
+Prediction: Neutral | Confidence: 0.9168121218681335--- Confidence for each classes
+[('Negative', 0.03898053), ('Neutral', 0.9168121), ('Positive', 0.044207405)]
+
+Average:
+Confidence for each classes
+      class  confidence
+0  Negative    0.038981
+1   Neutral    0.916812
+2  Positive    0.044207
+
+Prediction: Neutral | Confidence: 0.9168121218681335
+Call chat bot model for Neutral
+
+Input 7:
+This is 7th message
+
+--- Input Text: start
+
+Prediction: Neutral | Confidence: 0.9168121218681335--- Confidence for each classes
+[('Negative', 0.03898053), ('Neutral', 0.9168121), ('Positive', 0.044207405)]
+
+Average:
+Confidence for each classes
+      class  confidence
+0  Negative    0.038981
+1   Neutral    0.916812
+2  Positive    0.044207
+
+Prediction: Neutral | Confidence: 0.9168121218681335
+Call chat bot model for Neutral
+
+Input 8:
+This is 8th message
+
+--- Input Text: start
+
+Prediction: Neutral | Confidence: 0.9168121218681335--- Confidence for each classes
+[('Negative', 0.03898053), ('Neutral', 0.9168121), ('Positive', 0.044207405)]
+
+Average:
+Confidence for each classes
+      class  confidence
+0  Negative    0.038981
+1   Neutral    0.916812
+2  Positive    0.044207
+
+Prediction: Neutral | Confidence: 0.9168121218681335
+Call chat bot model for Neutral
+
+Input 9:
+This is 9th message
+
+--- Input Text: start
+
+Prediction: Neutral | Confidence: 0.9168121218681335--- Confidence for each classes
+[('Negative', 0.03898053), ('Neutral', 0.9168121), ('Positive', 0.044207405)]
+
+Average:
+Confidence for each classes
+      class  confidence
+0  Negative    0.038981
+1   Neutral    0.916812
+2  Positive    0.044207
+
+Prediction: Neutral | Confidence: 0.9168121218681335
+Call chat bot model for Neutral
+
+Input 10:
+This is 10th message
+
+--- Input Text: start
+
+Prediction: Neutral | Confidence: 0.9168121218681335--- Confidence for each classes
+[('Negative', 0.03898053), ('Neutral', 0.9168121), ('Positive', 0.044207405)]
+
+Average:
+Confidence for each classes
+      class  confidence
+0  Negative    0.038981
+1   Neutral    0.916812
+2  Positive    0.044207
+
+Prediction: Neutral | Confidence: 0.9168121218681335
+Call chat bot model for Neutral
+
+Input 11:
+This is 11th message
+
+--- Input Text: start
+
+Prediction: Neutral | Confidence: 0.9168121218681335--- Confidence for each classes
+[('Negative', 0.03898053), ('Neutral', 0.9168121), ('Positive', 0.044207405)]
+
+Average:
+Confidence for each classes
+      class  confidence
+0  Negative    0.038981
+1   Neutral    0.916812
+2  Positive    0.044207
+
+Prediction: Neutral | Confidence: 0.9168121218681335
+Call chat bot model for Neutral
+

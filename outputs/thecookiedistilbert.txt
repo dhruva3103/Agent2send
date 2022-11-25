@@ -1,0 +1,567 @@
+User input recording
+
+Input 1:
+This is 1st message
+
+--- Input Text: start
+
+Prediction: anxious | Confidence: 0.6936783194541931--- Confidence for each classes
+[('afraid', 0.005844519), ('angry', 5.9558854e-05), ('annoyed', 0.00058742386), ('anticipating', 0.013127836), ('anxious', 0.6936783), ('apprehensive', 0.012519966), ('ashamed', 0.00046453497), ('caring', 6.079897e-05), ('confident', 0.026076652), ('content', 0.00089229626), ('devastated', 0.00021607445), ('disappointed', 7.107937e-05), ('disgusted', 0.00013076451), ('embarrassed', 0.0002666182), ('excited', 0.0017158415), ('faithful', 0.00023339134), ('furious', 2.338764e-05), ('grateful', 0.000111015564), ('guilty', 0.00012418826), ('hopeful', 0.0018747059), ('impressed', 4.8164657e-05), ('jealous', 4.115595e-05), ('joyful', 0.0005599267), ('lonely', 0.00015929081), ('nostalgic', 0.0001982754), ('prepared', 0.23977041), ('proud', 0.00026267496), ('sad', 0.00015674661), ('sentimental', 6.0410515e-05), ('surprised', 0.00029929442), ('terrified', 0.00024228934), ('trusting', 0.00012243885)]
+
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.005845
+1          angry    0.000060
+2        annoyed    0.000587
+3   anticipating    0.013128
+4        anxious    0.693678
+5   apprehensive    0.012520
+6        ashamed    0.000465
+7         caring    0.000061
+8      confident    0.026077
+9        content    0.000892
+10    devastated    0.000216
+11  disappointed    0.000071
+12     disgusted    0.000131
+13   embarrassed    0.000267
+14       excited    0.001716
+15      faithful    0.000233
+16       furious    0.000023
+17      grateful    0.000111
+18        guilty    0.000124
+19       hopeful    0.001875
+20     impressed    0.000048
+21       jealous    0.000041
+22        joyful    0.000560
+23        lonely    0.000159
+24     nostalgic    0.000198
+25      prepared    0.239770
+26         proud    0.000263
+27           sad    0.000157
+28   sentimental    0.000060
+29     surprised    0.000299
+30     terrified    0.000242
+31      trusting    0.000122
+
+Prediction: anxious | Confidence: 0.6936783194541931
+Call chat bot model for Anxious
+
+Input 2:
+This is 2nd message
+
+--- Input Text: start
+
+Prediction: anxious | Confidence: 0.6936783194541931--- Confidence for each classes
+[('afraid', 0.005844519), ('angry', 5.9558854e-05), ('annoyed', 0.00058742386), ('anticipating', 0.013127836), ('anxious', 0.6936783), ('apprehensive', 0.012519966), ('ashamed', 0.00046453497), ('caring', 6.079897e-05), ('confident', 0.026076652), ('content', 0.00089229626), ('devastated', 0.00021607445), ('disappointed', 7.107937e-05), ('disgusted', 0.00013076451), ('embarrassed', 0.0002666182), ('excited', 0.0017158415), ('faithful', 0.00023339134), ('furious', 2.338764e-05), ('grateful', 0.000111015564), ('guilty', 0.00012418826), ('hopeful', 0.0018747059), ('impressed', 4.8164657e-05), ('jealous', 4.115595e-05), ('joyful', 0.0005599267), ('lonely', 0.00015929081), ('nostalgic', 0.0001982754), ('prepared', 0.23977041), ('proud', 0.00026267496), ('sad', 0.00015674661), ('sentimental', 6.0410515e-05), ('surprised', 0.00029929442), ('terrified', 0.00024228934), ('trusting', 0.00012243885)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.005845
+1          angry    0.000060
+2        annoyed    0.000587
+3   anticipating    0.013128
+4        anxious    0.693678
+5   apprehensive    0.012520
+6        ashamed    0.000465
+7         caring    0.000061
+8      confident    0.026077
+9        content    0.000892
+10    devastated    0.000216
+11  disappointed    0.000071
+12     disgusted    0.000131
+13   embarrassed    0.000267
+14       excited    0.001716
+15      faithful    0.000233
+16       furious    0.000023
+17      grateful    0.000111
+18        guilty    0.000124
+19       hopeful    0.001875
+20     impressed    0.000048
+21       jealous    0.000041
+22        joyful    0.000560
+23        lonely    0.000159
+24     nostalgic    0.000198
+25      prepared    0.239770
+26         proud    0.000263
+27           sad    0.000157
+28   sentimental    0.000060
+29     surprised    0.000299
+30     terrified    0.000242
+31      trusting    0.000122
+
+Prediction: anxious | Confidence: 0.6936783194541931
+Call chat bot model for Anxious
+
+Input 3:
+This is 3rd message
+
+--- Input Text: start
+
+Prediction: anxious | Confidence: 0.6936783194541931--- Confidence for each classes
+[('afraid', 0.005844519), ('angry', 5.9558854e-05), ('annoyed', 0.00058742386), ('anticipating', 0.013127836), ('anxious', 0.6936783), ('apprehensive', 0.012519966), ('ashamed', 0.00046453497), ('caring', 6.079897e-05), ('confident', 0.026076652), ('content', 0.00089229626), ('devastated', 0.00021607445), ('disappointed', 7.107937e-05), ('disgusted', 0.00013076451), ('embarrassed', 0.0002666182), ('excited', 0.0017158415), ('faithful', 0.00023339134), ('furious', 2.338764e-05), ('grateful', 0.000111015564), ('guilty', 0.00012418826), ('hopeful', 0.0018747059), ('impressed', 4.8164657e-05), ('jealous', 4.115595e-05), ('joyful', 0.0005599267), ('lonely', 0.00015929081), ('nostalgic', 0.0001982754), ('prepared', 0.23977041), ('proud', 0.00026267496), ('sad', 0.00015674661), ('sentimental', 6.0410515e-05), ('surprised', 0.00029929442), ('terrified', 0.00024228934), ('trusting', 0.00012243885)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.005845
+1          angry    0.000060
+2        annoyed    0.000587
+3   anticipating    0.013128
+4        anxious    0.693678
+5   apprehensive    0.012520
+6        ashamed    0.000465
+7         caring    0.000061
+8      confident    0.026077
+9        content    0.000892
+10    devastated    0.000216
+11  disappointed    0.000071
+12     disgusted    0.000131
+13   embarrassed    0.000267
+14       excited    0.001716
+15      faithful    0.000233
+16       furious    0.000023
+17      grateful    0.000111
+18        guilty    0.000124
+19       hopeful    0.001875
+20     impressed    0.000048
+21       jealous    0.000041
+22        joyful    0.000560
+23        lonely    0.000159
+24     nostalgic    0.000198
+25      prepared    0.239770
+26         proud    0.000263
+27           sad    0.000157
+28   sentimental    0.000060
+29     surprised    0.000299
+30     terrified    0.000242
+31      trusting    0.000122
+
+Prediction: anxious | Confidence: 0.6936783194541931
+Call chat bot model for Anxious
+
+Input 4:
+This is 4th message
+
+--- Input Text: start
+
+Prediction: anxious | Confidence: 0.6936783194541931--- Confidence for each classes
+[('afraid', 0.005844519), ('angry', 5.9558854e-05), ('annoyed', 0.00058742386), ('anticipating', 0.013127836), ('anxious', 0.6936783), ('apprehensive', 0.012519966), ('ashamed', 0.00046453497), ('caring', 6.079897e-05), ('confident', 0.026076652), ('content', 0.00089229626), ('devastated', 0.00021607445), ('disappointed', 7.107937e-05), ('disgusted', 0.00013076451), ('embarrassed', 0.0002666182), ('excited', 0.0017158415), ('faithful', 0.00023339134), ('furious', 2.338764e-05), ('grateful', 0.000111015564), ('guilty', 0.00012418826), ('hopeful', 0.0018747059), ('impressed', 4.8164657e-05), ('jealous', 4.115595e-05), ('joyful', 0.0005599267), ('lonely', 0.00015929081), ('nostalgic', 0.0001982754), ('prepared', 0.23977041), ('proud', 0.00026267496), ('sad', 0.00015674661), ('sentimental', 6.0410515e-05), ('surprised', 0.00029929442), ('terrified', 0.00024228934), ('trusting', 0.00012243885)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.005845
+1          angry    0.000060
+2        annoyed    0.000587
+3   anticipating    0.013128
+4        anxious    0.693678
+5   apprehensive    0.012520
+6        ashamed    0.000465
+7         caring    0.000061
+8      confident    0.026077
+9        content    0.000892
+10    devastated    0.000216
+11  disappointed    0.000071
+12     disgusted    0.000131
+13   embarrassed    0.000267
+14       excited    0.001716
+15      faithful    0.000233
+16       furious    0.000023
+17      grateful    0.000111
+18        guilty    0.000124
+19       hopeful    0.001875
+20     impressed    0.000048
+21       jealous    0.000041
+22        joyful    0.000560
+23        lonely    0.000159
+24     nostalgic    0.000198
+25      prepared    0.239770
+26         proud    0.000263
+27           sad    0.000157
+28   sentimental    0.000060
+29     surprised    0.000299
+30     terrified    0.000242
+31      trusting    0.000122
+
+Prediction: anxious | Confidence: 0.6936783194541931
+Call chat bot model for Anxious
+
+Input 5:
+This is 5th message
+
+--- Input Text: start
+
+Prediction: anxious | Confidence: 0.6936783194541931--- Confidence for each classes
+[('afraid', 0.005844519), ('angry', 5.9558854e-05), ('annoyed', 0.00058742386), ('anticipating', 0.013127836), ('anxious', 0.6936783), ('apprehensive', 0.012519966), ('ashamed', 0.00046453497), ('caring', 6.079897e-05), ('confident', 0.026076652), ('content', 0.00089229626), ('devastated', 0.00021607445), ('disappointed', 7.107937e-05), ('disgusted', 0.00013076451), ('embarrassed', 0.0002666182), ('excited', 0.0017158415), ('faithful', 0.00023339134), ('furious', 2.338764e-05), ('grateful', 0.000111015564), ('guilty', 0.00012418826), ('hopeful', 0.0018747059), ('impressed', 4.8164657e-05), ('jealous', 4.115595e-05), ('joyful', 0.0005599267), ('lonely', 0.00015929081), ('nostalgic', 0.0001982754), ('prepared', 0.23977041), ('proud', 0.00026267496), ('sad', 0.00015674661), ('sentimental', 6.0410515e-05), ('surprised', 0.00029929442), ('terrified', 0.00024228934), ('trusting', 0.00012243885)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.005845
+1          angry    0.000060
+2        annoyed    0.000587
+3   anticipating    0.013128
+4        anxious    0.693678
+5   apprehensive    0.012520
+6        ashamed    0.000465
+7         caring    0.000061
+8      confident    0.026077
+9        content    0.000892
+10    devastated    0.000216
+11  disappointed    0.000071
+12     disgusted    0.000131
+13   embarrassed    0.000267
+14       excited    0.001716
+15      faithful    0.000233
+16       furious    0.000023
+17      grateful    0.000111
+18        guilty    0.000124
+19       hopeful    0.001875
+20     impressed    0.000048
+21       jealous    0.000041
+22        joyful    0.000560
+23        lonely    0.000159
+24     nostalgic    0.000198
+25      prepared    0.239770
+26         proud    0.000263
+27           sad    0.000157
+28   sentimental    0.000060
+29     surprised    0.000299
+30     terrified    0.000242
+31      trusting    0.000122
+
+Prediction: anxious | Confidence: 0.6936783194541931
+Call chat bot model for Anxious
+
+Input 6:
+This is 6th message
+
+--- Input Text: start
+
+Prediction: anxious | Confidence: 0.6936783194541931--- Confidence for each classes
+[('afraid', 0.005844519), ('angry', 5.9558854e-05), ('annoyed', 0.00058742386), ('anticipating', 0.013127836), ('anxious', 0.6936783), ('apprehensive', 0.012519966), ('ashamed', 0.00046453497), ('caring', 6.079897e-05), ('confident', 0.026076652), ('content', 0.00089229626), ('devastated', 0.00021607445), ('disappointed', 7.107937e-05), ('disgusted', 0.00013076451), ('embarrassed', 0.0002666182), ('excited', 0.0017158415), ('faithful', 0.00023339134), ('furious', 2.338764e-05), ('grateful', 0.000111015564), ('guilty', 0.00012418826), ('hopeful', 0.0018747059), ('impressed', 4.8164657e-05), ('jealous', 4.115595e-05), ('joyful', 0.0005599267), ('lonely', 0.00015929081), ('nostalgic', 0.0001982754), ('prepared', 0.23977041), ('proud', 0.00026267496), ('sad', 0.00015674661), ('sentimental', 6.0410515e-05), ('surprised', 0.00029929442), ('terrified', 0.00024228934), ('trusting', 0.00012243885)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.005845
+1          angry    0.000060
+2        annoyed    0.000587
+3   anticipating    0.013128
+4        anxious    0.693678
+5   apprehensive    0.012520
+6        ashamed    0.000465
+7         caring    0.000061
+8      confident    0.026077
+9        content    0.000892
+10    devastated    0.000216
+11  disappointed    0.000071
+12     disgusted    0.000131
+13   embarrassed    0.000267
+14       excited    0.001716
+15      faithful    0.000233
+16       furious    0.000023
+17      grateful    0.000111
+18        guilty    0.000124
+19       hopeful    0.001875
+20     impressed    0.000048
+21       jealous    0.000041
+22        joyful    0.000560
+23        lonely    0.000159
+24     nostalgic    0.000198
+25      prepared    0.239770
+26         proud    0.000263
+27           sad    0.000157
+28   sentimental    0.000060
+29     surprised    0.000299
+30     terrified    0.000242
+31      trusting    0.000122
+
+Prediction: anxious | Confidence: 0.6936783194541931
+Call chat bot model for Anxious
+
+Input 7:
+This is 7th message
+
+--- Input Text: start
+
+Prediction: anxious | Confidence: 0.6936783194541931--- Confidence for each classes
+[('afraid', 0.005844519), ('angry', 5.9558854e-05), ('annoyed', 0.00058742386), ('anticipating', 0.013127836), ('anxious', 0.6936783), ('apprehensive', 0.012519966), ('ashamed', 0.00046453497), ('caring', 6.079897e-05), ('confident', 0.026076652), ('content', 0.00089229626), ('devastated', 0.00021607445), ('disappointed', 7.107937e-05), ('disgusted', 0.00013076451), ('embarrassed', 0.0002666182), ('excited', 0.0017158415), ('faithful', 0.00023339134), ('furious', 2.338764e-05), ('grateful', 0.000111015564), ('guilty', 0.00012418826), ('hopeful', 0.0018747059), ('impressed', 4.8164657e-05), ('jealous', 4.115595e-05), ('joyful', 0.0005599267), ('lonely', 0.00015929081), ('nostalgic', 0.0001982754), ('prepared', 0.23977041), ('proud', 0.00026267496), ('sad', 0.00015674661), ('sentimental', 6.0410515e-05), ('surprised', 0.00029929442), ('terrified', 0.00024228934), ('trusting', 0.00012243885)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.005845
+1          angry    0.000060
+2        annoyed    0.000587
+3   anticipating    0.013128
+4        anxious    0.693678
+5   apprehensive    0.012520
+6        ashamed    0.000465
+7         caring    0.000061
+8      confident    0.026077
+9        content    0.000892
+10    devastated    0.000216
+11  disappointed    0.000071
+12     disgusted    0.000131
+13   embarrassed    0.000267
+14       excited    0.001716
+15      faithful    0.000233
+16       furious    0.000023
+17      grateful    0.000111
+18        guilty    0.000124
+19       hopeful    0.001875
+20     impressed    0.000048
+21       jealous    0.000041
+22        joyful    0.000560
+23        lonely    0.000159
+24     nostalgic    0.000198
+25      prepared    0.239770
+26         proud    0.000263
+27           sad    0.000157
+28   sentimental    0.000060
+29     surprised    0.000299
+30     terrified    0.000242
+31      trusting    0.000122
+
+Prediction: anxious | Confidence: 0.6936783194541931
+Call chat bot model for Anxious
+
+Input 8:
+This is 8th message
+
+--- Input Text: start
+
+Prediction: anxious | Confidence: 0.6936783194541931--- Confidence for each classes
+[('afraid', 0.005844519), ('angry', 5.9558854e-05), ('annoyed', 0.00058742386), ('anticipating', 0.013127836), ('anxious', 0.6936783), ('apprehensive', 0.012519966), ('ashamed', 0.00046453497), ('caring', 6.079897e-05), ('confident', 0.026076652), ('content', 0.00089229626), ('devastated', 0.00021607445), ('disappointed', 7.107937e-05), ('disgusted', 0.00013076451), ('embarrassed', 0.0002666182), ('excited', 0.0017158415), ('faithful', 0.00023339134), ('furious', 2.338764e-05), ('grateful', 0.000111015564), ('guilty', 0.00012418826), ('hopeful', 0.0018747059), ('impressed', 4.8164657e-05), ('jealous', 4.115595e-05), ('joyful', 0.0005599267), ('lonely', 0.00015929081), ('nostalgic', 0.0001982754), ('prepared', 0.23977041), ('proud', 0.00026267496), ('sad', 0.00015674661), ('sentimental', 6.0410515e-05), ('surprised', 0.00029929442), ('terrified', 0.00024228934), ('trusting', 0.00012243885)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.005845
+1          angry    0.000060
+2        annoyed    0.000587
+3   anticipating    0.013128
+4        anxious    0.693678
+5   apprehensive    0.012520
+6        ashamed    0.000465
+7         caring    0.000061
+8      confident    0.026077
+9        content    0.000892
+10    devastated    0.000216
+11  disappointed    0.000071
+12     disgusted    0.000131
+13   embarrassed    0.000267
+14       excited    0.001716
+15      faithful    0.000233
+16       furious    0.000023
+17      grateful    0.000111
+18        guilty    0.000124
+19       hopeful    0.001875
+20     impressed    0.000048
+21       jealous    0.000041
+22        joyful    0.000560
+23        lonely    0.000159
+24     nostalgic    0.000198
+25      prepared    0.239770
+26         proud    0.000263
+27           sad    0.000157
+28   sentimental    0.000060
+29     surprised    0.000299
+30     terrified    0.000242
+31      trusting    0.000122
+
+Prediction: anxious | Confidence: 0.6936783194541931
+Call chat bot model for Anxious
+
+Input 9:
+This is 9th message
+
+--- Input Text: start
+
+Prediction: anxious | Confidence: 0.6936783194541931--- Confidence for each classes
+[('afraid', 0.005844519), ('angry', 5.9558854e-05), ('annoyed', 0.00058742386), ('anticipating', 0.013127836), ('anxious', 0.6936783), ('apprehensive', 0.012519966), ('ashamed', 0.00046453497), ('caring', 6.079897e-05), ('confident', 0.026076652), ('content', 0.00089229626), ('devastated', 0.00021607445), ('disappointed', 7.107937e-05), ('disgusted', 0.00013076451), ('embarrassed', 0.0002666182), ('excited', 0.0017158415), ('faithful', 0.00023339134), ('furious', 2.338764e-05), ('grateful', 0.000111015564), ('guilty', 0.00012418826), ('hopeful', 0.0018747059), ('impressed', 4.8164657e-05), ('jealous', 4.115595e-05), ('joyful', 0.0005599267), ('lonely', 0.00015929081), ('nostalgic', 0.0001982754), ('prepared', 0.23977041), ('proud', 0.00026267496), ('sad', 0.00015674661), ('sentimental', 6.0410515e-05), ('surprised', 0.00029929442), ('terrified', 0.00024228934), ('trusting', 0.00012243885)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.005845
+1          angry    0.000060
+2        annoyed    0.000587
+3   anticipating    0.013128
+4        anxious    0.693678
+5   apprehensive    0.012520
+6        ashamed    0.000465
+7         caring    0.000061
+8      confident    0.026077
+9        content    0.000892
+10    devastated    0.000216
+11  disappointed    0.000071
+12     disgusted    0.000131
+13   embarrassed    0.000267
+14       excited    0.001716
+15      faithful    0.000233
+16       furious    0.000023
+17      grateful    0.000111
+18        guilty    0.000124
+19       hopeful    0.001875
+20     impressed    0.000048
+21       jealous    0.000041
+22        joyful    0.000560
+23        lonely    0.000159
+24     nostalgic    0.000198
+25      prepared    0.239770
+26         proud    0.000263
+27           sad    0.000157
+28   sentimental    0.000060
+29     surprised    0.000299
+30     terrified    0.000242
+31      trusting    0.000122
+
+Prediction: anxious | Confidence: 0.6936783194541931
+Call chat bot model for Anxious
+
+Input 10:
+This is 10th message
+
+--- Input Text: start
+
+Prediction: anxious | Confidence: 0.6936783194541931--- Confidence for each classes
+[('afraid', 0.005844519), ('angry', 5.9558854e-05), ('annoyed', 0.00058742386), ('anticipating', 0.013127836), ('anxious', 0.6936783), ('apprehensive', 0.012519966), ('ashamed', 0.00046453497), ('caring', 6.079897e-05), ('confident', 0.026076652), ('content', 0.00089229626), ('devastated', 0.00021607445), ('disappointed', 7.107937e-05), ('disgusted', 0.00013076451), ('embarrassed', 0.0002666182), ('excited', 0.0017158415), ('faithful', 0.00023339134), ('furious', 2.338764e-05), ('grateful', 0.000111015564), ('guilty', 0.00012418826), ('hopeful', 0.0018747059), ('impressed', 4.8164657e-05), ('jealous', 4.115595e-05), ('joyful', 0.0005599267), ('lonely', 0.00015929081), ('nostalgic', 0.0001982754), ('prepared', 0.23977041), ('proud', 0.00026267496), ('sad', 0.00015674661), ('sentimental', 6.0410515e-05), ('surprised', 0.00029929442), ('terrified', 0.00024228934), ('trusting', 0.00012243885)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.005845
+1          angry    0.000060
+2        annoyed    0.000587
+3   anticipating    0.013128
+4        anxious    0.693678
+5   apprehensive    0.012520
+6        ashamed    0.000465
+7         caring    0.000061
+8      confident    0.026077
+9        content    0.000892
+10    devastated    0.000216
+11  disappointed    0.000071
+12     disgusted    0.000131
+13   embarrassed    0.000267
+14       excited    0.001716
+15      faithful    0.000233
+16       furious    0.000023
+17      grateful    0.000111
+18        guilty    0.000124
+19       hopeful    0.001875
+20     impressed    0.000048
+21       jealous    0.000041
+22        joyful    0.000560
+23        lonely    0.000159
+24     nostalgic    0.000198
+25      prepared    0.239770
+26         proud    0.000263
+27           sad    0.000157
+28   sentimental    0.000060
+29     surprised    0.000299
+30     terrified    0.000242
+31      trusting    0.000122
+
+Prediction: anxious | Confidence: 0.6936783194541931
+Call chat bot model for Anxious
+
+Input 11:
+This is 11th message
+
+--- Input Text: start
+
+Prediction: anxious | Confidence: 0.6936783194541931--- Confidence for each classes
+[('afraid', 0.005844519), ('angry', 5.9558854e-05), ('annoyed', 0.00058742386), ('anticipating', 0.013127836), ('anxious', 0.6936783), ('apprehensive', 0.012519966), ('ashamed', 0.00046453497), ('caring', 6.079897e-05), ('confident', 0.026076652), ('content', 0.00089229626), ('devastated', 0.00021607445), ('disappointed', 7.107937e-05), ('disgusted', 0.00013076451), ('embarrassed', 0.0002666182), ('excited', 0.0017158415), ('faithful', 0.00023339134), ('furious', 2.338764e-05), ('grateful', 0.000111015564), ('guilty', 0.00012418826), ('hopeful', 0.0018747059), ('impressed', 4.8164657e-05), ('jealous', 4.115595e-05), ('joyful', 0.0005599267), ('lonely', 0.00015929081), ('nostalgic', 0.0001982754), ('prepared', 0.23977041), ('proud', 0.00026267496), ('sad', 0.00015674661), ('sentimental', 6.0410515e-05), ('surprised', 0.00029929442), ('terrified', 0.00024228934), ('trusting', 0.00012243885)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.005845
+1          angry    0.000060
+2        annoyed    0.000587
+3   anticipating    0.013128
+4        anxious    0.693678
+5   apprehensive    0.012520
+6        ashamed    0.000465
+7         caring    0.000061
+8      confident    0.026077
+9        content    0.000892
+10    devastated    0.000216
+11  disappointed    0.000071
+12     disgusted    0.000131
+13   embarrassed    0.000267
+14       excited    0.001716
+15      faithful    0.000233
+16       furious    0.000023
+17      grateful    0.000111
+18        guilty    0.000124
+19       hopeful    0.001875
+20     impressed    0.000048
+21       jealous    0.000041
+22        joyful    0.000560
+23        lonely    0.000159
+24     nostalgic    0.000198
+25      prepared    0.239770
+26         proud    0.000263
+27           sad    0.000157
+28   sentimental    0.000060
+29     surprised    0.000299
+30     terrified    0.000242
+31      trusting    0.000122
+
+Prediction: anxious | Confidence: 0.6936783194541931
+Call chat bot model for Anxious
+
+Input 12:
+This is 12th message
+
+--- Input Text: start
+
+Prediction: anxious | Confidence: 0.6936783194541931--- Confidence for each classes
+[('afraid', 0.005844519), ('angry', 5.9558854e-05), ('annoyed', 0.00058742386), ('anticipating', 0.013127836), ('anxious', 0.6936783), ('apprehensive', 0.012519966), ('ashamed', 0.00046453497), ('caring', 6.079897e-05), ('confident', 0.026076652), ('content', 0.00089229626), ('devastated', 0.00021607445), ('disappointed', 7.107937e-05), ('disgusted', 0.00013076451), ('embarrassed', 0.0002666182), ('excited', 0.0017158415), ('faithful', 0.00023339134), ('furious', 2.338764e-05), ('grateful', 0.000111015564), ('guilty', 0.00012418826), ('hopeful', 0.0018747059), ('impressed', 4.8164657e-05), ('jealous', 4.115595e-05), ('joyful', 0.0005599267), ('lonely', 0.00015929081), ('nostalgic', 0.0001982754), ('prepared', 0.23977041), ('proud', 0.00026267496), ('sad', 0.00015674661), ('sentimental', 6.0410515e-05), ('surprised', 0.00029929442), ('terrified', 0.00024228934), ('trusting', 0.00012243885)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.005845
+1          angry    0.000060
+2        annoyed    0.000587
+3   anticipating    0.013128
+4        anxious    0.693678
+5   apprehensive    0.012520
+6        ashamed    0.000465
+7         caring    0.000061
+8      confident    0.026077
+9        content    0.000892
+10    devastated    0.000216
+11  disappointed    0.000071
+12     disgusted    0.000131
+13   embarrassed    0.000267
+14       excited    0.001716
+15      faithful    0.000233
+16       furious    0.000023
+17      grateful    0.000111
+18        guilty    0.000124
+19       hopeful    0.001875
+20     impressed    0.000048
+21       jealous    0.000041
+22        joyful    0.000560
+23        lonely    0.000159
+24     nostalgic    0.000198
+25      prepared    0.239770
+26         proud    0.000263
+27           sad    0.000157
+28   sentimental    0.000060
+29     surprised    0.000299
+30     terrified    0.000242
+31      trusting    0.000122
+
+Prediction: anxious | Confidence: 0.6936783194541931
+Call chat bot model for Anxious
+

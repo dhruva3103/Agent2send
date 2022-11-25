@@ -1,0 +1,1966 @@
+User input recording
+
+Input 1:
+This is 1st message
+
+--- Input Text: how are you man
+
+Prediction: self.depression | Confidence: 0.5763860940933228--- Confidence for each classes
+[('self.Anxiety', 0.07966376), ('self.bipolar', 0.24328777), ('self.depression', 0.5763861), ('self.SuicideWatch', 0.08162614), ('self.offmychest', 0.019036274)]
+
+
+Input 2:
+This is 2nd message
+
+--- Input Text: are you doing well
+
+Prediction: self.depression | Confidence: 0.41027334332466125--- Confidence for each classes
+[('self.Anxiety', 0.2885596), ('self.bipolar', 0.25888258), ('self.depression', 0.41027334), ('self.SuicideWatch', 0.032951254), ('self.offmychest', 0.009333302)]
+
+Input 3:
+This is 3rd message
+
+--- Input Text: great
+
+Prediction: self.depression | Confidence: 0.2979564964771271--- Confidence for each classes
+[('self.Anxiety', 0.13523145), ('self.bipolar', 0.19308661), ('self.depression', 0.2979565), ('self.SuicideWatch', 0.22954503), ('self.offmychest', 0.14418036)]
+
+Input 4:
+This is 4th message
+
+--- Input Text: how are you
+
+Prediction: self.depression | Confidence: 0.5384935140609741--- Confidence for each classes
+[('self.Anxiety', 0.13761176), ('self.bipolar', 0.24569573), ('self.depression', 0.5384935), ('self.SuicideWatch', 0.059229314), ('self.offmychest', 0.018969672)]
+
+Input 5:
+This is 5th message
+
+--- Input Text: I am good
+
+Prediction: self.depression | Confidence: 0.42081040143966675--- Confidence for each classes
+[('self.Anxiety', 0.100923076), ('self.bipolar', 0.08721891), ('self.depression', 0.4208104), ('self.SuicideWatch', 0.27797055), ('self.offmychest', 0.113077)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.100923
+1       self.bipolar    0.087219
+2    self.depression    0.420810
+3  self.SuicideWatch    0.277971
+4    self.offmychest    0.113077
+
+Prediction: self.depression | Confidence: 0.42081040143966675
+Call chat bot model for Depression
+
+Input 6:
+This is 6th message
+
+--- Input Text: how are you today
+
+Prediction: self.bipolar | Confidence: 0.4407366216182709--- Confidence for each classes
+[('self.Anxiety', 0.23346207), ('self.bipolar', 0.44073662), ('self.depression', 0.29863876), ('self.SuicideWatch', 0.019300332), ('self.offmychest', 0.007862192)]
+
+Input 7:
+This is 7th message
+
+--- Input Text: this is 2nd messaeg
+
+Prediction: self.depression | Confidence: 0.3256894052028656--- Confidence for each classes
+[('self.Anxiety', 0.09281866), ('self.bipolar', 0.14592062), ('self.depression', 0.3256894), ('self.SuicideWatch', 0.23460032), ('self.offmychest', 0.20097098)]
+
+Input 8:
+This is 8th message
+
+--- Input Text: 3
+
+Prediction: self.SuicideWatch | Confidence: 0.3884509205818176--- Confidence for each classes
+[('self.Anxiety', 0.07434401), ('self.bipolar', 0.11336873), ('self.depression', 0.2992562), ('self.SuicideWatch', 0.38845092), ('self.offmychest', 0.12458006)]
+
+Input 9:
+This is 9th message
+
+--- Input Text: this is 4
+
+Prediction: self.SuicideWatch | Confidence: 0.36327093839645386--- Confidence for each classes
+[('self.Anxiety', 0.07203471), ('self.bipolar', 0.14496455), ('self.depression', 0.28160173), ('self.SuicideWatch', 0.36327094), ('self.offmychest', 0.13812812)]
+
+Input 10:
+This is 10th message
+
+--- Input Text: I play soccer
+
+Prediction: self.depression | Confidence: 0.8019455075263977--- Confidence for each classes
+[('self.Anxiety', 0.026284184), ('self.bipolar', 0.018076878), ('self.depression', 0.8019455), ('self.SuicideWatch', 0.035918415), ('self.offmychest', 0.11777506)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.026284
+1       self.bipolar    0.018077
+2    self.depression    0.801946
+3  self.SuicideWatch    0.035918
+4    self.offmychest    0.117775
+
+Prediction: self.depression | Confidence: 0.8019455075263977
+Call chat bot model for Depression
+
+Input 11:
+This is 11th message
+
+--- Input Text: I am six
+
+Prediction: self.SuicideWatch | Confidence: 0.4153602719306946--- Confidence for each classes
+[('self.Anxiety', 0.025097102), ('self.bipolar', 0.047555324), ('self.depression', 0.30864403), ('self.SuicideWatch', 0.41536027), ('self.offmychest', 0.20334321)]
+
+Input 12:
+This is 12th message
+
+--- Input Text: this is seven
+
+Prediction: self.SuicideWatch | Confidence: 0.3864063620567322--- Confidence for each classes
+[('self.Anxiety', 0.05575892), ('self.bipolar', 0.15337068), ('self.depression', 0.25577533), ('self.SuicideWatch', 0.38640636), ('self.offmychest', 0.14868872)]
+
+Input 13:
+This is 13th message
+
+--- Input Text: and now eight
+
+Prediction: self.depression | Confidence: 0.4068375527858734--- Confidence for each classes
+[('self.Anxiety', 0.061848182), ('self.bipolar', 0.0942736), ('self.depression', 0.40683755), ('self.SuicideWatch', 0.2845195), ('self.offmychest', 0.15252116)]
+
+Input 14:
+This is 14th message
+
+--- Input Text: then nine, next one is 
+
+Prediction: self.depression | Confidence: 0.46744775772094727--- Confidence for each classes
+[('self.Anxiety', 0.055075336), ('self.bipolar', 0.094292276), ('self.depression', 0.46744776), ('self.SuicideWatch', 0.2864437), ('self.offmychest', 0.09674099)]
+
+Input 15:
+This is 15th message
+
+--- Input Text: ten
+
+Prediction: self.SuicideWatch | Confidence: 0.32084646821022034--- Confidence for each classes
+[('self.Anxiety', 0.07614444), ('self.bipolar', 0.13725129), ('self.depression', 0.27153653), ('self.SuicideWatch', 0.32084647), ('self.offmychest', 0.19422127)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.076144
+1       self.bipolar    0.137251
+2    self.depression    0.271537
+3  self.SuicideWatch    0.320846
+4    self.offmychest    0.194221
+
+Prediction: self.depression | Confidence: 0.27153652906417847
+Call chat bot model for Depression
+
+Input 16:
+This is 16th message
+
+--- Input Text: hello
+
+Prediction: self.SuicideWatch | Confidence: 0.45534050464630127--- Confidence for each classes
+[('self.Anxiety', 0.09587713), ('self.bipolar', 0.079700574), ('self.depression', 0.32976007), ('self.SuicideWatch', 0.4553405), ('self.offmychest', 0.03932165)]
+
+Input 17:
+This is 17th message
+
+--- Input Text: I am great, how are you
+
+Prediction: self.depression | Confidence: 0.4616493284702301--- Confidence for each classes
+[('self.Anxiety', 0.17103001), ('self.bipolar', 0.29757464), ('self.depression', 0.46164933), ('self.SuicideWatch', 0.049918395), ('self.offmychest', 0.019827738)]
+
+Input 18:
+This is 18th message
+
+--- Input Text: how are you
+
+Prediction: self.depression | Confidence: 0.5384935140609741--- Confidence for each classes
+[('self.Anxiety', 0.13761176), ('self.bipolar', 0.24569573), ('self.depression', 0.5384935), ('self.SuicideWatch', 0.059229314), ('self.offmychest', 0.018969672)]
+
+Input 19:
+This is 19th message
+
+--- Input Text: I like to play soccer
+
+Prediction: self.offmychest | Confidence: 0.45119643211364746--- Confidence for each classes
+[('self.Anxiety', 0.06800793), ('self.bipolar', 0.038090464), ('self.depression', 0.4321126), ('self.SuicideWatch', 0.01059252), ('self.offmychest', 0.45119643)]
+
+Input 20:
+This is 20th message
+
+--- Input Text: how are you?
+
+Prediction: self.depression | Confidence: 0.4104347229003906--- Confidence for each classes
+[('self.Anxiety', 0.22816037), ('self.bipolar', 0.2869584), ('self.depression', 0.41043472), ('self.SuicideWatch', 0.056552276), ('self.offmychest', 0.017894248)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.228160
+1       self.bipolar    0.286958
+2    self.depression    0.410435
+3  self.SuicideWatch    0.056552
+4    self.offmychest    0.017894
+
+Prediction: self.depression | Confidence: 0.4104347229003906
+Call chat bot model for Depression
+
+Input 21:
+This is 21st message
+
+--- Input Text: Good morning
+
+Prediction: self.depression | Confidence: 0.5576789379119873--- Confidence for each classes
+[('self.Anxiety', 0.08564049), ('self.bipolar', 0.12381334), ('self.depression', 0.55767894), ('self.SuicideWatch', 0.1922971), ('self.offmychest', 0.040570185)]
+
+Input 22:
+This is 22nd message
+
+--- Input Text: good morning
+
+Prediction: self.depression | Confidence: 0.5576789379119873--- Confidence for each classes
+[('self.Anxiety', 0.08564049), ('self.bipolar', 0.12381334), ('self.depression', 0.55767894), ('self.SuicideWatch', 0.1922971), ('self.offmychest', 0.040570185)]
+
+Input 23:
+This is 23rd message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Input 24:
+This is 24th message
+
+--- Input Text: good morning
+
+Prediction: self.depression | Confidence: 0.5576789379119873--- Confidence for each classes
+[('self.Anxiety', 0.08564049), ('self.bipolar', 0.12381334), ('self.depression', 0.55767894), ('self.SuicideWatch', 0.1922971), ('self.offmychest', 0.040570185)]
+
+Input 25:
+This is 25th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Depression
+
+Input 26:
+This is 26th message
+
+--- Input Text: good
+
+Prediction: content | Confidence: 0.7682445049285889--- Confidence for each classes
+[('afraid', 0.00086121715), ('angry', 0.00043581787), ('annoyed', 0.0015261538), ('anticipating', 0.0002665838), ('anxious', 0.0017717788), ('apprehensive', 0.0005040298), ('ashamed', 0.0012909212), ('caring', 0.0005248994), ('confident', 0.11323845), ('content', 0.7682445), ('devastated', 0.000523844), ('disappointed', 0.00024888935), ('disgusted', 0.00071706355), ('embarrassed', 0.00046063244), ('excited', 0.00022041376), ('faithful', 0.019073935), ('furious', 0.00019362681), ('grateful', 0.0107948175), ('guilty', 0.00064780616), ('hopeful', 0.019984694), ('impressed', 0.001339375), ('jealous', 0.00014268435), ('joyful', 0.0025208318), ('lonely', 0.00047750148), ('nostalgic', 0.0003664191), ('prepared', 0.00083628006), ('proud', 0.046562), ('sad', 0.0008831702), ('sentimental', 0.0005673159), ('surprised', 0.0011078778), ('terrified', 0.00021727777), ('trusting', 0.0034491569)]
+
+Input 27:
+This is 27th message
+
+--- Input Text: good
+
+Prediction: content | Confidence: 0.7682445049285889--- Confidence for each classes
+[('afraid', 0.00086121715), ('angry', 0.00043581787), ('annoyed', 0.0015261538), ('anticipating', 0.0002665838), ('anxious', 0.0017717788), ('apprehensive', 0.0005040298), ('ashamed', 0.0012909212), ('caring', 0.0005248994), ('confident', 0.11323845), ('content', 0.7682445), ('devastated', 0.000523844), ('disappointed', 0.00024888935), ('disgusted', 0.00071706355), ('embarrassed', 0.00046063244), ('excited', 0.00022041376), ('faithful', 0.019073935), ('furious', 0.00019362681), ('grateful', 0.0107948175), ('guilty', 0.00064780616), ('hopeful', 0.019984694), ('impressed', 0.001339375), ('jealous', 0.00014268435), ('joyful', 0.0025208318), ('lonely', 0.00047750148), ('nostalgic', 0.0003664191), ('prepared', 0.00083628006), ('proud', 0.046562), ('sad', 0.0008831702), ('sentimental', 0.0005673159), ('surprised', 0.0011078778), ('terrified', 0.00021727777), ('trusting', 0.0034491569)]
+
+Input 28:
+This is 28th message
+
+--- Input Text: good
+
+Prediction: content | Confidence: 0.7682445049285889--- Confidence for each classes
+[('afraid', 0.00086121715), ('angry', 0.00043581787), ('annoyed', 0.0015261538), ('anticipating', 0.0002665838), ('anxious', 0.0017717788), ('apprehensive', 0.0005040298), ('ashamed', 0.0012909212), ('caring', 0.0005248994), ('confident', 0.11323845), ('content', 0.7682445), ('devastated', 0.000523844), ('disappointed', 0.00024888935), ('disgusted', 0.00071706355), ('embarrassed', 0.00046063244), ('excited', 0.00022041376), ('faithful', 0.019073935), ('furious', 0.00019362681), ('grateful', 0.0107948175), ('guilty', 0.00064780616), ('hopeful', 0.019984694), ('impressed', 0.001339375), ('jealous', 0.00014268435), ('joyful', 0.0025208318), ('lonely', 0.00047750148), ('nostalgic', 0.0003664191), ('prepared', 0.00083628006), ('proud', 0.046562), ('sad', 0.0008831702), ('sentimental', 0.0005673159), ('surprised', 0.0011078778), ('terrified', 0.00021727777), ('trusting', 0.0034491569)]
+
+Input 29:
+This is 29th message
+
+--- Input Text: good
+
+Prediction: content | Confidence: 0.7682445049285889--- Confidence for each classes
+[('afraid', 0.00086121715), ('angry', 0.00043581787), ('annoyed', 0.0015261538), ('anticipating', 0.0002665838), ('anxious', 0.0017717788), ('apprehensive', 0.0005040298), ('ashamed', 0.0012909212), ('caring', 0.0005248994), ('confident', 0.11323845), ('content', 0.7682445), ('devastated', 0.000523844), ('disappointed', 0.00024888935), ('disgusted', 0.00071706355), ('embarrassed', 0.00046063244), ('excited', 0.00022041376), ('faithful', 0.019073935), ('furious', 0.00019362681), ('grateful', 0.0107948175), ('guilty', 0.00064780616), ('hopeful', 0.019984694), ('impressed', 0.001339375), ('jealous', 0.00014268435), ('joyful', 0.0025208318), ('lonely', 0.00047750148), ('nostalgic', 0.0003664191), ('prepared', 0.00083628006), ('proud', 0.046562), ('sad', 0.0008831702), ('sentimental', 0.0005673159), ('surprised', 0.0011078778), ('terrified', 0.00021727777), ('trusting', 0.0034491569)]
+
+Input 30:
+This is 30th message
+
+--- Input Text: good
+
+Prediction: content | Confidence: 0.7682445049285889--- Confidence for each classes
+[('afraid', 0.00086121715), ('angry', 0.00043581787), ('annoyed', 0.0015261538), ('anticipating', 0.0002665838), ('anxious', 0.0017717788), ('apprehensive', 0.0005040298), ('ashamed', 0.0012909212), ('caring', 0.0005248994), ('confident', 0.11323845), ('content', 0.7682445), ('devastated', 0.000523844), ('disappointed', 0.00024888935), ('disgusted', 0.00071706355), ('embarrassed', 0.00046063244), ('excited', 0.00022041376), ('faithful', 0.019073935), ('furious', 0.00019362681), ('grateful', 0.0107948175), ('guilty', 0.00064780616), ('hopeful', 0.019984694), ('impressed', 0.001339375), ('jealous', 0.00014268435), ('joyful', 0.0025208318), ('lonely', 0.00047750148), ('nostalgic', 0.0003664191), ('prepared', 0.00083628006), ('proud', 0.046562), ('sad', 0.0008831702), ('sentimental', 0.0005673159), ('surprised', 0.0011078778), ('terrified', 0.00021727777), ('trusting', 0.0034491569)]
+
+Input 31:
+This is 31st message
+
+--- Input Text: good
+
+Prediction: content | Confidence: 0.7682445049285889--- Confidence for each classes
+[('afraid', 0.00086121715), ('angry', 0.00043581787), ('annoyed', 0.0015261538), ('anticipating', 0.0002665838), ('anxious', 0.0017717788), ('apprehensive', 0.0005040298), ('ashamed', 0.0012909212), ('caring', 0.0005248994), ('confident', 0.11323845), ('content', 0.7682445), ('devastated', 0.000523844), ('disappointed', 0.00024888935), ('disgusted', 0.00071706355), ('embarrassed', 0.00046063244), ('excited', 0.00022041376), ('faithful', 0.019073935), ('furious', 0.00019362681), ('grateful', 0.0107948175), ('guilty', 0.00064780616), ('hopeful', 0.019984694), ('impressed', 0.001339375), ('jealous', 0.00014268435), ('joyful', 0.0025208318), ('lonely', 0.00047750148), ('nostalgic', 0.0003664191), ('prepared', 0.00083628006), ('proud', 0.046562), ('sad', 0.0008831702), ('sentimental', 0.0005673159), ('surprised', 0.0011078778), ('terrified', 0.00021727777), ('trusting', 0.0034491569)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.000861
+1          angry    0.000436
+2        annoyed    0.001526
+3   anticipating    0.000267
+4        anxious    0.001772
+5   apprehensive    0.000504
+6        ashamed    0.001291
+7         caring    0.000525
+8      confident    0.113238
+9        content    0.768245
+10    devastated    0.000524
+11  disappointed    0.000249
+12     disgusted    0.000717
+13   embarrassed    0.000461
+14       excited    0.000220
+15      faithful    0.019074
+16       furious    0.000194
+17      grateful    0.010795
+18        guilty    0.000648
+19       hopeful    0.019985
+20     impressed    0.001339
+21       jealous    0.000143
+22        joyful    0.002521
+23        lonely    0.000478
+24     nostalgic    0.000366
+25      prepared    0.000836
+26         proud    0.046562
+27           sad    0.000883
+28   sentimental    0.000567
+29     surprised    0.001108
+30     terrified    0.000217
+31      trusting    0.003449
+
+Prediction: content | Confidence: 0.7682445049285889
+Call chat bot model for Content
+
+Input 32:
+This is 32nd message
+
+--- Input Text: good
+
+Prediction: content | Confidence: 0.7682445049285889--- Confidence for each classes
+[('afraid', 0.00086121715), ('angry', 0.00043581787), ('annoyed', 0.0015261538), ('anticipating', 0.0002665838), ('anxious', 0.0017717788), ('apprehensive', 0.0005040298), ('ashamed', 0.0012909212), ('caring', 0.0005248994), ('confident', 0.11323845), ('content', 0.7682445), ('devastated', 0.000523844), ('disappointed', 0.00024888935), ('disgusted', 0.00071706355), ('embarrassed', 0.00046063244), ('excited', 0.00022041376), ('faithful', 0.019073935), ('furious', 0.00019362681), ('grateful', 0.0107948175), ('guilty', 0.00064780616), ('hopeful', 0.019984694), ('impressed', 0.001339375), ('jealous', 0.00014268435), ('joyful', 0.0025208318), ('lonely', 0.00047750148), ('nostalgic', 0.0003664191), ('prepared', 0.00083628006), ('proud', 0.046562), ('sad', 0.0008831702), ('sentimental', 0.0005673159), ('surprised', 0.0011078778), ('terrified', 0.00021727777), ('trusting', 0.0034491569)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.000861
+1          angry    0.000436
+2        annoyed    0.001526
+3   anticipating    0.000267
+4        anxious    0.001772
+5   apprehensive    0.000504
+6        ashamed    0.001291
+7         caring    0.000525
+8      confident    0.113238
+9        content    0.768245
+10    devastated    0.000524
+11  disappointed    0.000249
+12     disgusted    0.000717
+13   embarrassed    0.000461
+14       excited    0.000220
+15      faithful    0.019074
+16       furious    0.000194
+17      grateful    0.010795
+18        guilty    0.000648
+19       hopeful    0.019985
+20     impressed    0.001339
+21       jealous    0.000143
+22        joyful    0.002521
+23        lonely    0.000478
+24     nostalgic    0.000366
+25      prepared    0.000836
+26         proud    0.046562
+27           sad    0.000883
+28   sentimental    0.000567
+29     surprised    0.001108
+30     terrified    0.000217
+31      trusting    0.003449
+
+Prediction: content | Confidence: 0.7682445049285889
+Call chat bot model for Content
+
+Input 33:
+This is 33rd message
+
+--- Input Text: good morning
+
+Prediction: grateful | Confidence: 0.6747511625289917--- Confidence for each classes
+[('afraid', 4.782339e-05), ('angry', 0.00013802173), ('annoyed', 5.5300196e-05), ('anticipating', 0.000108026026), ('anxious', 0.00022116346), ('apprehensive', 6.9151756e-05), ('ashamed', 8.391393e-05), ('caring', 0.00048461417), ('confident', 0.0016549884), ('content', 0.0033644747), ('devastated', 0.000347118), ('disappointed', 0.0002060735), ('disgusted', 4.263401e-05), ('embarrassed', 0.00012084181), ('excited', 0.0034022743), ('faithful', 0.0017104455), ('furious', 0.00011236766), ('grateful', 0.67475116), ('guilty', 3.903484e-05), ('hopeful', 0.015303149), ('impressed', 0.0014733394), ('jealous', 9.368268e-05), ('joyful', 0.17043087), ('lonely', 5.016448e-05), ('nostalgic', 0.00027457697), ('prepared', 0.00019879092), ('proud', 0.10064058), ('sad', 7.121839e-05), ('sentimental', 0.0015349614), ('surprised', 0.021952782), ('terrified', 0.00013711727), ('trusting', 0.000879327)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.000048
+1          angry    0.000138
+2        annoyed    0.000055
+3   anticipating    0.000108
+4        anxious    0.000221
+5   apprehensive    0.000069
+6        ashamed    0.000084
+7         caring    0.000485
+8      confident    0.001655
+9        content    0.003364
+10    devastated    0.000347
+11  disappointed    0.000206
+12     disgusted    0.000043
+13   embarrassed    0.000121
+14       excited    0.003402
+15      faithful    0.001710
+16       furious    0.000112
+17      grateful    0.674751
+18        guilty    0.000039
+19       hopeful    0.015303
+20     impressed    0.001473
+21       jealous    0.000094
+22        joyful    0.170431
+23        lonely    0.000050
+24     nostalgic    0.000275
+25      prepared    0.000199
+26         proud    0.100641
+27           sad    0.000071
+28   sentimental    0.001535
+29     surprised    0.021953
+30     terrified    0.000137
+31      trusting    0.000879
+
+Prediction: content | Confidence: 0.003364474745467305
+Call chat bot model for Content
+
+Input 34:
+This is 34th message
+
+--- Input Text: what a bad day
+
+Prediction: angry | Confidence: 0.6355906128883362--- Confidence for each classes
+[('afraid', 0.000306668), ('angry', 0.6355906), ('annoyed', 0.008871225), ('anticipating', 0.00033745272), ('anxious', 0.00011621369), ('apprehensive', 0.00014562042), ('ashamed', 0.0066828136), ('caring', 5.7762936e-05), ('confident', 1.4844812e-05), ('content', 6.7534354e-05), ('devastated', 0.0039514615), ('disappointed', 0.19413437), ('disgusted', 0.01469107), ('embarrassed', 0.0005164105), ('excited', 2.5692918e-05), ('faithful', 5.432405e-05), ('furious', 0.034731425), ('grateful', 6.121398e-05), ('guilty', 0.0025291666), ('hopeful', 0.00011620339), ('impressed', 5.254718e-05), ('jealous', 0.00019980346), ('joyful', 2.4391795e-05), ('lonely', 0.0001622672), ('nostalgic', 0.00010974858), ('prepared', 6.200351e-05), ('proud', 2.4838722e-05), ('sad', 0.095703386), ('sentimental', 0.00010693913), ('surprised', 0.00026643346), ('terrified', 0.00018689688), ('trusting', 9.869167e-05)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.000307
+1          angry    0.635591
+2        annoyed    0.008871
+3   anticipating    0.000337
+4        anxious    0.000116
+5   apprehensive    0.000146
+6        ashamed    0.006683
+7         caring    0.000058
+8      confident    0.000015
+9        content    0.000068
+10    devastated    0.003951
+11  disappointed    0.194134
+12     disgusted    0.014691
+13   embarrassed    0.000516
+14       excited    0.000026
+15      faithful    0.000054
+16       furious    0.034731
+17      grateful    0.000061
+18        guilty    0.002529
+19       hopeful    0.000116
+20     impressed    0.000053
+21       jealous    0.000200
+22        joyful    0.000024
+23        lonely    0.000162
+24     nostalgic    0.000110
+25      prepared    0.000062
+26         proud    0.000025
+27           sad    0.095703
+28   sentimental    0.000107
+29     surprised    0.000266
+30     terrified    0.000187
+31      trusting    0.000099
+
+Prediction: content | Confidence: 6.753435445716605e-05
+Call chat bot model for Content
+
+Input 35:
+This is 35th message
+
+--- Input Text: good
+
+Prediction: content | Confidence: 0.7682445049285889--- Confidence for each classes
+[('afraid', 0.00086121715), ('angry', 0.00043581787), ('annoyed', 0.0015261538), ('anticipating', 0.0002665838), ('anxious', 0.0017717788), ('apprehensive', 0.0005040298), ('ashamed', 0.0012909212), ('caring', 0.0005248994), ('confident', 0.11323845), ('content', 0.7682445), ('devastated', 0.000523844), ('disappointed', 0.00024888935), ('disgusted', 0.00071706355), ('embarrassed', 0.00046063244), ('excited', 0.00022041376), ('faithful', 0.019073935), ('furious', 0.00019362681), ('grateful', 0.0107948175), ('guilty', 0.00064780616), ('hopeful', 0.019984694), ('impressed', 0.001339375), ('jealous', 0.00014268435), ('joyful', 0.0025208318), ('lonely', 0.00047750148), ('nostalgic', 0.0003664191), ('prepared', 0.00083628006), ('proud', 0.046562), ('sad', 0.0008831702), ('sentimental', 0.0005673159), ('surprised', 0.0011078778), ('terrified', 0.00021727777), ('trusting', 0.0034491569)]
+
+Input 36:
+This is 36th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Input 37:
+This is 37th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Input 38:
+This is 38th message
+
+--- Input Text: good morning
+
+Prediction: self.depression | Confidence: 0.5576789379119873--- Confidence for each classes
+[('self.Anxiety', 0.08564049), ('self.bipolar', 0.12381334), ('self.depression', 0.55767894), ('self.SuicideWatch', 0.1922971), ('self.offmychest', 0.040570185)]
+
+Input 39:
+This is 39th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Input 40:
+This is 40th message
+
+--- Input Text: good
+
+Prediction: content | Confidence: 0.7682445049285889--- Confidence for each classes
+[('afraid', 0.00086121715), ('angry', 0.00043581787), ('annoyed', 0.0015261538), ('anticipating', 0.0002665838), ('anxious', 0.0017717788), ('apprehensive', 0.0005040298), ('ashamed', 0.0012909212), ('caring', 0.0005248994), ('confident', 0.11323845), ('content', 0.7682445), ('devastated', 0.000523844), ('disappointed', 0.00024888935), ('disgusted', 0.00071706355), ('embarrassed', 0.00046063244), ('excited', 0.00022041376), ('faithful', 0.019073935), ('furious', 0.00019362681), ('grateful', 0.0107948175), ('guilty', 0.00064780616), ('hopeful', 0.019984694), ('impressed', 0.001339375), ('jealous', 0.00014268435), ('joyful', 0.0025208318), ('lonely', 0.00047750148), ('nostalgic', 0.0003664191), ('prepared', 0.00083628006), ('proud', 0.046562), ('sad', 0.0008831702), ('sentimental', 0.0005673159), ('surprised', 0.0011078778), ('terrified', 0.00021727777), ('trusting', 0.0034491569)]
+
+Input 41:
+This is 41st message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Input 42:
+This is 42nd message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Input 43:
+This is 43rd message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+
+Input 44:
+This is 44th message
+
+--- Input Text: good
+
+Prediction: content | Confidence: 0.7682445049285889--- Confidence for each classes
+[('afraid', 0.00086121715), ('angry', 0.00043581787), ('annoyed', 0.0015261538), ('anticipating', 0.0002665838), ('anxious', 0.0017717788), ('apprehensive', 0.0005040298), ('ashamed', 0.0012909212), ('caring', 0.0005248994), ('confident', 0.11323845), ('content', 0.7682445), ('devastated', 0.000523844), ('disappointed', 0.00024888935), ('disgusted', 0.00071706355), ('embarrassed', 0.00046063244), ('excited', 0.00022041376), ('faithful', 0.019073935), ('furious', 0.00019362681), ('grateful', 0.0107948175), ('guilty', 0.00064780616), ('hopeful', 0.019984694), ('impressed', 0.001339375), ('jealous', 0.00014268435), ('joyful', 0.0025208318), ('lonely', 0.00047750148), ('nostalgic', 0.0003664191), ('prepared', 0.00083628006), ('proud', 0.046562), ('sad', 0.0008831702), ('sentimental', 0.0005673159), ('surprised', 0.0011078778), ('terrified', 0.00021727777), ('trusting', 0.0034491569)]
+
+Input 45:
+This is 45th message
+
+--- Input Text: good
+
+Prediction: content | Confidence: 0.7682445049285889--- Confidence for each classes
+[('afraid', 0.00086121715), ('angry', 0.00043581787), ('annoyed', 0.0015261538), ('anticipating', 0.0002665838), ('anxious', 0.0017717788), ('apprehensive', 0.0005040298), ('ashamed', 0.0012909212), ('caring', 0.0005248994), ('confident', 0.11323845), ('content', 0.7682445), ('devastated', 0.000523844), ('disappointed', 0.00024888935), ('disgusted', 0.00071706355), ('embarrassed', 0.00046063244), ('excited', 0.00022041376), ('faithful', 0.019073935), ('furious', 0.00019362681), ('grateful', 0.0107948175), ('guilty', 0.00064780616), ('hopeful', 0.019984694), ('impressed', 0.001339375), ('jealous', 0.00014268435), ('joyful', 0.0025208318), ('lonely', 0.00047750148), ('nostalgic', 0.0003664191), ('prepared', 0.00083628006), ('proud', 0.046562), ('sad', 0.0008831702), ('sentimental', 0.0005673159), ('surprised', 0.0011078778), ('terrified', 0.00021727777), ('trusting', 0.0034491569)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.000861
+1          angry    0.000436
+2        annoyed    0.001526
+3   anticipating    0.000267
+4        anxious    0.001772
+5   apprehensive    0.000504
+6        ashamed    0.001291
+7         caring    0.000525
+8      confident    0.113238
+9        content    0.768245
+10    devastated    0.000524
+11  disappointed    0.000249
+12     disgusted    0.000717
+13   embarrassed    0.000461
+14       excited    0.000220
+15      faithful    0.019074
+16       furious    0.000194
+17      grateful    0.010795
+18        guilty    0.000648
+19       hopeful    0.019985
+20     impressed    0.001339
+21       jealous    0.000143
+22        joyful    0.002521
+23        lonely    0.000478
+24     nostalgic    0.000366
+25      prepared    0.000836
+26         proud    0.046562
+27           sad    0.000883
+28   sentimental    0.000567
+29     surprised    0.001108
+30     terrified    0.000217
+31      trusting    0.003449
+
+Prediction: content | Confidence: 0.7682445049285889
+Call chat bot model for Content
+
+Input 46:
+This is 46th message
+
+--- Input Text: good
+
+Prediction: content | Confidence: 0.7682445049285889--- Confidence for each classes
+[('afraid', 0.00086121715), ('angry', 0.00043581787), ('annoyed', 0.0015261538), ('anticipating', 0.0002665838), ('anxious', 0.0017717788), ('apprehensive', 0.0005040298), ('ashamed', 0.0012909212), ('caring', 0.0005248994), ('confident', 0.11323845), ('content', 0.7682445), ('devastated', 0.000523844), ('disappointed', 0.00024888935), ('disgusted', 0.00071706355), ('embarrassed', 0.00046063244), ('excited', 0.00022041376), ('faithful', 0.019073935), ('furious', 0.00019362681), ('grateful', 0.0107948175), ('guilty', 0.00064780616), ('hopeful', 0.019984694), ('impressed', 0.001339375), ('jealous', 0.00014268435), ('joyful', 0.0025208318), ('lonely', 0.00047750148), ('nostalgic', 0.0003664191), ('prepared', 0.00083628006), ('proud', 0.046562), ('sad', 0.0008831702), ('sentimental', 0.0005673159), ('surprised', 0.0011078778), ('terrified', 0.00021727777), ('trusting', 0.0034491569)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.000861
+1          angry    0.000436
+2        annoyed    0.001526
+3   anticipating    0.000267
+4        anxious    0.001772
+5   apprehensive    0.000504
+6        ashamed    0.001291
+7         caring    0.000525
+8      confident    0.113238
+9        content    0.768245
+10    devastated    0.000524
+11  disappointed    0.000249
+12     disgusted    0.000717
+13   embarrassed    0.000461
+14       excited    0.000220
+15      faithful    0.019074
+16       furious    0.000194
+17      grateful    0.010795
+18        guilty    0.000648
+19       hopeful    0.019985
+20     impressed    0.001339
+21       jealous    0.000143
+22        joyful    0.002521
+23        lonely    0.000478
+24     nostalgic    0.000366
+25      prepared    0.000836
+26         proud    0.046562
+27           sad    0.000883
+28   sentimental    0.000567
+29     surprised    0.001108
+30     terrified    0.000217
+31      trusting    0.003449
+
+Prediction: content | Confidence: 0.7682445049285889
+Call chat bot model for Content
+
+Input 47:
+This is 47th message
+
+--- Input Text: good
+
+Prediction: content | Confidence: 0.7682445049285889--- Confidence for each classes
+[('afraid', 0.00086121715), ('angry', 0.00043581787), ('annoyed', 0.0015261538), ('anticipating', 0.0002665838), ('anxious', 0.0017717788), ('apprehensive', 0.0005040298), ('ashamed', 0.0012909212), ('caring', 0.0005248994), ('confident', 0.11323845), ('content', 0.7682445), ('devastated', 0.000523844), ('disappointed', 0.00024888935), ('disgusted', 0.00071706355), ('embarrassed', 0.00046063244), ('excited', 0.00022041376), ('faithful', 0.019073935), ('furious', 0.00019362681), ('grateful', 0.0107948175), ('guilty', 0.00064780616), ('hopeful', 0.019984694), ('impressed', 0.001339375), ('jealous', 0.00014268435), ('joyful', 0.0025208318), ('lonely', 0.00047750148), ('nostalgic', 0.0003664191), ('prepared', 0.00083628006), ('proud', 0.046562), ('sad', 0.0008831702), ('sentimental', 0.0005673159), ('surprised', 0.0011078778), ('terrified', 0.00021727777), ('trusting', 0.0034491569)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.000861
+1          angry    0.000436
+2        annoyed    0.001526
+3   anticipating    0.000267
+4        anxious    0.001772
+5   apprehensive    0.000504
+6        ashamed    0.001291
+7         caring    0.000525
+8      confident    0.113238
+9        content    0.768245
+10    devastated    0.000524
+11  disappointed    0.000249
+12     disgusted    0.000717
+13   embarrassed    0.000461
+14       excited    0.000220
+15      faithful    0.019074
+16       furious    0.000194
+17      grateful    0.010795
+18        guilty    0.000648
+19       hopeful    0.019985
+20     impressed    0.001339
+21       jealous    0.000143
+22        joyful    0.002521
+23        lonely    0.000478
+24     nostalgic    0.000366
+25      prepared    0.000836
+26         proud    0.046562
+27           sad    0.000883
+28   sentimental    0.000567
+29     surprised    0.001108
+30     terrified    0.000217
+31      trusting    0.003449
+
+Prediction: content | Confidence: 0.7682445049285889
+Call chat bot model for Content
+
+Input 48:
+This is 48th message
+
+--- Input Text: good
+
+Prediction: content | Confidence: 0.7682445049285889--- Confidence for each classes
+[('afraid', 0.00086121715), ('angry', 0.00043581787), ('annoyed', 0.0015261538), ('anticipating', 0.0002665838), ('anxious', 0.0017717788), ('apprehensive', 0.0005040298), ('ashamed', 0.0012909212), ('caring', 0.0005248994), ('confident', 0.11323845), ('content', 0.7682445), ('devastated', 0.000523844), ('disappointed', 0.00024888935), ('disgusted', 0.00071706355), ('embarrassed', 0.00046063244), ('excited', 0.00022041376), ('faithful', 0.019073935), ('furious', 0.00019362681), ('grateful', 0.0107948175), ('guilty', 0.00064780616), ('hopeful', 0.019984694), ('impressed', 0.001339375), ('jealous', 0.00014268435), ('joyful', 0.0025208318), ('lonely', 0.00047750148), ('nostalgic', 0.0003664191), ('prepared', 0.00083628006), ('proud', 0.046562), ('sad', 0.0008831702), ('sentimental', 0.0005673159), ('surprised', 0.0011078778), ('terrified', 0.00021727777), ('trusting', 0.0034491569)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.000861
+1          angry    0.000436
+2        annoyed    0.001526
+3   anticipating    0.000267
+4        anxious    0.001772
+5   apprehensive    0.000504
+6        ashamed    0.001291
+7         caring    0.000525
+8      confident    0.113238
+9        content    0.768245
+10    devastated    0.000524
+11  disappointed    0.000249
+12     disgusted    0.000717
+13   embarrassed    0.000461
+14       excited    0.000220
+15      faithful    0.019074
+16       furious    0.000194
+17      grateful    0.010795
+18        guilty    0.000648
+19       hopeful    0.019985
+20     impressed    0.001339
+21       jealous    0.000143
+22        joyful    0.002521
+23        lonely    0.000478
+24     nostalgic    0.000366
+25      prepared    0.000836
+26         proud    0.046562
+27           sad    0.000883
+28   sentimental    0.000567
+29     surprised    0.001108
+30     terrified    0.000217
+31      trusting    0.003449
+
+Prediction: content | Confidence: 0.7682445049285889
+Call chat bot model for Content
+
+Input 49:
+This is 49th message
+
+--- Input Text: good
+
+Prediction: content | Confidence: 0.7682445049285889--- Confidence for each classes
+[('afraid', 0.00086121715), ('angry', 0.00043581787), ('annoyed', 0.0015261538), ('anticipating', 0.0002665838), ('anxious', 0.0017717788), ('apprehensive', 0.0005040298), ('ashamed', 0.0012909212), ('caring', 0.0005248994), ('confident', 0.11323845), ('content', 0.7682445), ('devastated', 0.000523844), ('disappointed', 0.00024888935), ('disgusted', 0.00071706355), ('embarrassed', 0.00046063244), ('excited', 0.00022041376), ('faithful', 0.019073935), ('furious', 0.00019362681), ('grateful', 0.0107948175), ('guilty', 0.00064780616), ('hopeful', 0.019984694), ('impressed', 0.001339375), ('jealous', 0.00014268435), ('joyful', 0.0025208318), ('lonely', 0.00047750148), ('nostalgic', 0.0003664191), ('prepared', 0.00083628006), ('proud', 0.046562), ('sad', 0.0008831702), ('sentimental', 0.0005673159), ('surprised', 0.0011078778), ('terrified', 0.00021727777), ('trusting', 0.0034491569)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.000861
+1          angry    0.000436
+2        annoyed    0.001526
+3   anticipating    0.000267
+4        anxious    0.001772
+5   apprehensive    0.000504
+6        ashamed    0.001291
+7         caring    0.000525
+8      confident    0.113238
+9        content    0.768245
+10    devastated    0.000524
+11  disappointed    0.000249
+12     disgusted    0.000717
+13   embarrassed    0.000461
+14       excited    0.000220
+15      faithful    0.019074
+16       furious    0.000194
+17      grateful    0.010795
+18        guilty    0.000648
+19       hopeful    0.019985
+20     impressed    0.001339
+21       jealous    0.000143
+22        joyful    0.002521
+23        lonely    0.000478
+24     nostalgic    0.000366
+25      prepared    0.000836
+26         proud    0.046562
+27           sad    0.000883
+28   sentimental    0.000567
+29     surprised    0.001108
+30     terrified    0.000217
+31      trusting    0.003449
+
+Prediction: content | Confidence: 0.7682445049285889
+Call chat bot model for Content
+
+Input 50:
+This is 50th message
+
+--- Input Text: good morning
+
+Prediction: grateful | Confidence: 0.6747511625289917--- Confidence for each classes
+[('afraid', 4.782339e-05), ('angry', 0.00013802173), ('annoyed', 5.5300196e-05), ('anticipating', 0.000108026026), ('anxious', 0.00022116346), ('apprehensive', 6.9151756e-05), ('ashamed', 8.391393e-05), ('caring', 0.00048461417), ('confident', 0.0016549884), ('content', 0.0033644747), ('devastated', 0.000347118), ('disappointed', 0.0002060735), ('disgusted', 4.263401e-05), ('embarrassed', 0.00012084181), ('excited', 0.0034022743), ('faithful', 0.0017104455), ('furious', 0.00011236766), ('grateful', 0.67475116), ('guilty', 3.903484e-05), ('hopeful', 0.015303149), ('impressed', 0.0014733394), ('jealous', 9.368268e-05), ('joyful', 0.17043087), ('lonely', 5.016448e-05), ('nostalgic', 0.00027457697), ('prepared', 0.00019879092), ('proud', 0.10064058), ('sad', 7.121839e-05), ('sentimental', 0.0015349614), ('surprised', 0.021952782), ('terrified', 0.00013711727), ('trusting', 0.000879327)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.000048
+1          angry    0.000138
+2        annoyed    0.000055
+3   anticipating    0.000108
+4        anxious    0.000221
+5   apprehensive    0.000069
+6        ashamed    0.000084
+7         caring    0.000485
+8      confident    0.001655
+9        content    0.003364
+10    devastated    0.000347
+11  disappointed    0.000206
+12     disgusted    0.000043
+13   embarrassed    0.000121
+14       excited    0.003402
+15      faithful    0.001710
+16       furious    0.000112
+17      grateful    0.674751
+18        guilty    0.000039
+19       hopeful    0.015303
+20     impressed    0.001473
+21       jealous    0.000094
+22        joyful    0.170431
+23        lonely    0.000050
+24     nostalgic    0.000275
+25      prepared    0.000199
+26         proud    0.100641
+27           sad    0.000071
+28   sentimental    0.001535
+29     surprised    0.021953
+30     terrified    0.000137
+31      trusting    0.000879
+
+Prediction: content | Confidence: 0.003364474745467305
+Call chat bot model for Content
+
+Input 51:
+This is 51st message
+
+--- Input Text: what a bad day!!!
+
+Prediction: angry | Confidence: 0.7202412486076355--- Confidence for each classes
+[('afraid', 0.0001436217), ('angry', 0.72024125), ('annoyed', 0.18667059), ('anticipating', 0.0007724897), ('anxious', 0.0004099117), ('apprehensive', 5.7820704e-05), ('ashamed', 0.00041585235), ('caring', 3.3517812e-05), ('confident', 3.9593684e-05), ('content', 0.00021174153), ('devastated', 0.0007063815), ('disappointed', 0.018662404), ('disgusted', 0.006158811), ('embarrassed', 0.0027424644), ('excited', 0.00022943591), ('faithful', 7.20716e-05), ('furious', 0.051814195), ('grateful', 7.521784e-05), ('guilty', 6.511616e-05), ('hopeful', 0.0001471937), ('impressed', 0.00025719395), ('jealous', 0.00045428678), ('joyful', 0.00024151818), ('lonely', 8.186456e-05), ('nostalgic', 4.4330856e-05), ('prepared', 0.00012295222), ('proud', 6.974076e-05), ('sad', 0.0054784333), ('sentimental', 1.5816076e-05), ('surprised', 0.0030804083), ('terrified', 0.00032101222), ('trusting', 0.00016281579)]
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.000144
+1          angry    0.720241
+2        annoyed    0.186671
+3   anticipating    0.000772
+4        anxious    0.000410
+5   apprehensive    0.000058
+6        ashamed    0.000416
+7         caring    0.000034
+8      confident    0.000040
+9        content    0.000212
+10    devastated    0.000706
+11  disappointed    0.018662
+12     disgusted    0.006159
+13   embarrassed    0.002742
+14       excited    0.000229
+15      faithful    0.000072
+16       furious    0.051814
+17      grateful    0.000075
+18        guilty    0.000065
+19       hopeful    0.000147
+20     impressed    0.000257
+21       jealous    0.000454
+22        joyful    0.000242
+23        lonely    0.000082
+24     nostalgic    0.000044
+25      prepared    0.000123
+26         proud    0.000070
+27           sad    0.005478
+28   sentimental    0.000016
+29     surprised    0.003080
+30     terrified    0.000321
+31      trusting    0.000163
+
+Prediction: content | Confidence: 0.00021174152789171785
+Call chat bot model for Content
+
+Input 52:
+This is 52nd message
+
+--- Input Text: good
+
+Prediction: Positive | Confidence: 0.8623858094215393--- Confidence for each classes
+
+Input 53:
+This is 53rd message
+
+--- Input Text: good
+
+Prediction: Positive | Confidence: 0.8623858094215393--- Confidence for each classes
+
+Input 54:
+This is 54th message
+
+--- Input Text: how are you?
+
+Prediction: Neutral | Confidence: 0.7034138441085815--- Confidence for each classes
+
+Input 55:
+This is 55th message
+
+--- Input Text: good morning
+
+Prediction: Positive | Confidence: 0.5349829792976379--- Confidence for each classes
+
+Input 56:
+This is 56th message
+
+--- Input Text: good
+
+Prediction: Positive | Confidence: 0.8623858094215393--- Confidence for each classes
+
+Input 57:
+This is 57th message
+
+--- Input Text: good
+
+Prediction: Positive | Confidence: 0.8623858094215393--- Confidence for each classes
+
+Input 58:
+This is 58th message
+
+--- Input Text: good
+
+Prediction: Positive | Confidence: 0.8623858094215393--- Confidence for each classes
+
+Average:
+Confidence for each classes
+      class  confidence
+0  Negative    0.051286
+1   Neutral    0.086328
+2  Positive    0.862386
+
+Prediction: Positive | Confidence: 0.8623858094215393
+Call chat bot model for Positive
+
+Input 59:
+This is 59th message
+
+--- Input Text: good morning
+
+Prediction: Positive | Confidence: 0.5349829792976379--- Confidence for each classes
+
+Average:
+Confidence for each classes
+      class  confidence
+0  Negative    0.039572
+1   Neutral    0.425445
+2  Positive    0.534983
+
+Prediction: Positive | Confidence: 0.5349829792976379
+Call chat bot model for Positive
+
+Input 60:
+This is 60th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Depression
+
+Input 61:
+This is 61st message
+
+--- Input Text: good
+
+Prediction: content | Confidence: 0.7682445049285889--- Confidence for each classes
+
+Average:
+Confidence for each classes
+           class  confidence
+0         afraid    0.000861
+1          angry    0.000436
+2        annoyed    0.001526
+3   anticipating    0.000267
+4        anxious    0.001772
+5   apprehensive    0.000504
+6        ashamed    0.001291
+7         caring    0.000525
+8      confident    0.113238
+9        content    0.768245
+10    devastated    0.000524
+11  disappointed    0.000249
+12     disgusted    0.000717
+13   embarrassed    0.000461
+14       excited    0.000220
+15      faithful    0.019074
+16       furious    0.000194
+17      grateful    0.010795
+18        guilty    0.000648
+19       hopeful    0.019985
+20     impressed    0.001339
+21       jealous    0.000143
+22        joyful    0.002521
+23        lonely    0.000478
+24     nostalgic    0.000366
+25      prepared    0.000836
+26         proud    0.046562
+27           sad    0.000883
+28   sentimental    0.000567
+29     surprised    0.001108
+30     terrified    0.000217
+31      trusting    0.003449
+
+Prediction: content | Confidence: 0.7682445049285889
+Call chat bot model for Content
+
+Input 62:
+This is 62nd message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+
+Input 63:
+This is 63rd message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+
+Input 64:
+This is 64th message
+
+--- Input Text: how are you?
+
+Prediction: self.depression | Confidence: 0.4104347229003906--- Confidence for each classes
+
+Input 65:
+This is 65th message
+
+--- Input Text: have a great day
+
+Prediction: self.depression | Confidence: 0.3265686333179474--- Confidence for each classes
+
+Input 66:
+This is 66th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+
+Input 67:
+This is 67th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+
+Input 68:
+This is 68th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Input 69:
+This is 69th message
+
+--- Input Text: have a great day
+
+Prediction: self.depression | Confidence: 0.3265686333179474--- Confidence for each classes
+[('self.Anxiety', 0.28371775), ('self.bipolar', 0.3145558), ('self.depression', 0.32656863), ('self.SuicideWatch', 0.060050126), ('self.offmychest', 0.015107727)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.283718
+1       self.bipolar    0.314556
+2    self.depression    0.326569
+3  self.SuicideWatch    0.060050
+4    self.offmychest    0.015108
+
+Prediction: self.depression | Confidence: 0.3265686333179474
+Call chat bot model for Self.depression
+
+Input 70:
+This is 70th message
+
+--- Input Text: have a good day
+
+Prediction: Positive | Confidence: 0.9750770330429077--- Confidence for each classes
+[('Negative', 0.0014419619), ('Neutral', 0.023481008), ('Positive', 0.97507703)]
+
+Input 71:
+This is 71st message
+
+--- Input Text: good morning
+
+Prediction: Positive | Confidence: 0.5349829792976379--- Confidence for each classes
+[('Negative', 0.03957204), ('Neutral', 0.42544502), ('Positive', 0.534983)]
+
+Average:
+Confidence for each classes
+      class  confidence
+0  Negative    0.039572
+1   Neutral    0.425445
+2  Positive    0.534983
+
+Prediction: Positive | Confidence: 0.5349829792976379
+Call chat bot model for Positive
+
+Input 72:
+This is 72nd message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 73:
+This is 73rd message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 74:
+This is 74th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 75:
+This is 75th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 76:
+This is 76th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 77:
+This is 77th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 78:
+This is 78th message
+
+--- Input Text: goo
+
+Prediction: self.offmychest | Confidence: 0.27125146985054016--- Confidence for each classes
+[('self.Anxiety', 0.122418545), ('self.bipolar', 0.22081864), ('self.depression', 0.24201871), ('self.SuicideWatch', 0.14349264), ('self.offmychest', 0.27125147)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.122419
+1       self.bipolar    0.220819
+2    self.depression    0.242019
+3  self.SuicideWatch    0.143493
+4    self.offmychest    0.271251
+
+Prediction: self.depression | Confidence: 0.2420187145471573
+Call chat bot model for Self.depression
+
+Input 79:
+This is 79th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 80:
+This is 80th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 81:
+This is 81st message
+
+--- Input Text: how are you?
+
+Prediction: self.depression | Confidence: 0.4104347229003906--- Confidence for each classes
+[('self.Anxiety', 0.22816037), ('self.bipolar', 0.2869584), ('self.depression', 0.41043472), ('self.SuicideWatch', 0.056552276), ('self.offmychest', 0.017894248)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.228160
+1       self.bipolar    0.286958
+2    self.depression    0.410435
+3  self.SuicideWatch    0.056552
+4    self.offmychest    0.017894
+
+Prediction: self.depression | Confidence: 0.4104347229003906
+Call chat bot model for Self.depression
+
+Input 82:
+This is 82nd message
+
+--- Input Text: that's great
+
+Prediction: self.depression | Confidence: 0.33119505643844604--- Confidence for each classes
+[('self.Anxiety', 0.14585339), ('self.bipolar', 0.19282497), ('self.depression', 0.33119506), ('self.SuicideWatch', 0.17926958), ('self.offmychest', 0.15085699)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.145853
+1       self.bipolar    0.192825
+2    self.depression    0.331195
+3  self.SuicideWatch    0.179270
+4    self.offmychest    0.150857
+
+Prediction: self.depression | Confidence: 0.33119505643844604
+Call chat bot model for Self.depression
+
+Input 83:
+This is 83rd message
+
+--- Input Text: no its not sweet
+
+Prediction: self.offmychest | Confidence: 0.571791410446167--- Confidence for each classes
+[('self.Anxiety', 0.024843609), ('self.bipolar', 0.0781262), ('self.depression', 0.20873342), ('self.SuicideWatch', 0.11650529), ('self.offmychest', 0.5717914)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.024844
+1       self.bipolar    0.078126
+2    self.depression    0.208733
+3  self.SuicideWatch    0.116505
+4    self.offmychest    0.571791
+
+Prediction: self.depression | Confidence: 0.2087334245443344
+Call chat bot model for Self.depression
+
+Input 84:
+This is 84th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 85:
+This is 85th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 86:
+This is 86th message
+
+--- Input Text: good
+
+Prediction: Positive | Confidence: 0.8623858094215393--- Confidence for each classes
+[('Negative', 0.051285766), ('Neutral', 0.08632842), ('Positive', 0.8623858)]
+
+Input 87:
+This is 87th message
+
+--- Input Text: good
+
+Prediction: Positive | Confidence: 0.8623858094215393--- Confidence for each classes
+[('Negative', 0.051285766), ('Neutral', 0.08632842), ('Positive', 0.8623858)]
+
+Input 88:
+This is 88th message
+
+--- Input Text: good
+
+Prediction: Positive | Confidence: 0.8623858094215393--- Confidence for each classes
+[('Negative', 0.051285766), ('Neutral', 0.08632842), ('Positive', 0.8623858)]
+
+Average:
+Confidence for each classes
+      class  confidence
+0  Negative    0.051286
+1   Neutral    0.086328
+2  Positive    0.862386
+
+Prediction: Positive | Confidence: 0.8623858094215393
+Call chat bot model for Positive
+
+Input 89:
+This is 89th message
+
+--- Input Text: good
+
+Prediction: Positive | Confidence: 0.8623858094215393--- Confidence for each classes
+[('Negative', 0.051285766), ('Neutral', 0.08632842), ('Positive', 0.8623858)]
+
+Average:
+Confidence for each classes
+      class  confidence
+0  Negative    0.051286
+1   Neutral    0.086328
+2  Positive    0.862386
+
+Prediction: Positive | Confidence: 0.8623858094215393
+Call chat bot model for Positive
+
+Input 90:
+This is 90th message
+
+--- Input Text: good
+
+Prediction: Positive | Confidence: 0.8623858094215393--- Confidence for each classes
+[('Negative', 0.051285766), ('Neutral', 0.08632842), ('Positive', 0.8623858)]
+
+Average:
+Confidence for each classes
+      class  confidence
+0  Negative    0.051286
+1   Neutral    0.086328
+2  Positive    0.862386
+
+Prediction: Positive | Confidence: 0.8623858094215393
+Call chat bot model for Positive
+
+Input 91:
+This is 91st message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 92:
+This is 92nd message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 93:
+This is 93rd message
+
+--- Input Text: he
+
+Prediction: self.depression | Confidence: 0.3276589512825012--- Confidence for each classes
+[('self.Anxiety', 0.07860999), ('self.bipolar', 0.09925788), ('self.depression', 0.32765895), ('self.SuicideWatch', 0.23596443), ('self.offmychest', 0.2585087)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.078610
+1       self.bipolar    0.099258
+2    self.depression    0.327659
+3  self.SuicideWatch    0.235964
+4    self.offmychest    0.258509
+
+Prediction: self.depression | Confidence: 0.3276589512825012
+Call chat bot model for Self.depression
+
+Input 94:
+This is 94th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 95:
+This is 95th message
+
+--- Input Text: dfd
+
+Prediction: self.SuicideWatch | Confidence: 0.3683219254016876--- Confidence for each classes
+[('self.Anxiety', 0.09685921), ('self.bipolar', 0.1327364), ('self.depression', 0.32727093), ('self.SuicideWatch', 0.36832193), ('self.offmychest', 0.07481156)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.096859
+1       self.bipolar    0.132736
+2    self.depression    0.327271
+3  self.SuicideWatch    0.368322
+4    self.offmychest    0.074812
+
+Prediction: self.depression | Confidence: 0.3272709250450134
+Call chat bot model for Self.depression
+
+Input 96:
+This is 96th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 97:
+This is 97th message
+
+--- Input Text: start
+
+Prediction: self.depression | Confidence: 0.3302854001522064--- Confidence for each classes
+[('self.Anxiety', 0.15204547), ('self.bipolar', 0.18458669), ('self.depression', 0.3302854), ('self.SuicideWatch', 0.24656196), ('self.offmychest', 0.08652036)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.152045
+1       self.bipolar    0.184587
+2    self.depression    0.330285
+3  self.SuicideWatch    0.246562
+4    self.offmychest    0.086520
+
+Prediction: self.depression | Confidence: 0.3302854001522064
+Call chat bot model for Self.depression
+
+Input 98:
+This is 98th message
+
+--- Input Text: start
+
+Prediction: self.depression | Confidence: 0.3302854001522064--- Confidence for each classes
+[('self.Anxiety', 0.15204547), ('self.bipolar', 0.18458669), ('self.depression', 0.3302854), ('self.SuicideWatch', 0.24656196), ('self.offmychest', 0.08652036)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.152045
+1       self.bipolar    0.184587
+2    self.depression    0.330285
+3  self.SuicideWatch    0.246562
+4    self.offmychest    0.086520
+
+Prediction: self.depression | Confidence: 0.3302854001522064
+Call chat bot model for Self.depression
+
+Input 99:
+This is 99th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 100:
+This is 100th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 101:
+This is 101st message
+
+--- Input Text: start
+
+Prediction: self.depression | Confidence: 0.3302854001522064--- Confidence for each classes
+[('self.Anxiety', 0.15204547), ('self.bipolar', 0.18458669), ('self.depression', 0.3302854), ('self.SuicideWatch', 0.24656196), ('self.offmychest', 0.08652036)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.152045
+1       self.bipolar    0.184587
+2    self.depression    0.330285
+3  self.SuicideWatch    0.246562
+4    self.offmychest    0.086520
+
+Prediction: self.depression | Confidence: 0.3302854001522064
+Call chat bot model for Self.depression
+
+Input 102:
+This is 102nd message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 103:
+This is 103rd message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 104:
+This is 104th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 105:
+This is 105th message
+
+--- Input Text: have a great day!!!
+
+Prediction: self.bipolar | Confidence: 0.4986416697502136--- Confidence for each classes
+[('self.Anxiety', 0.2974613), ('self.bipolar', 0.49864167), ('self.depression', 0.16258314), ('self.SuicideWatch', 0.030481404), ('self.offmychest', 0.010832508)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.297461
+1       self.bipolar    0.498642
+2    self.depression    0.162583
+3  self.SuicideWatch    0.030481
+4    self.offmychest    0.010833
+
+Prediction: self.depression | Confidence: 0.1625831425189972
+Call chat bot model for Self.depression
+
+Input 106:
+This is 106th message
+
+--- Input Text: nice to meet you
+
+Prediction: self.depression | Confidence: 0.45621153712272644--- Confidence for each classes
+[('self.Anxiety', 0.08480396), ('self.bipolar', 0.15052366), ('self.depression', 0.45621154), ('self.SuicideWatch', 0.07753317), ('self.offmychest', 0.23092768)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.084804
+1       self.bipolar    0.150524
+2    self.depression    0.456212
+3  self.SuicideWatch    0.077533
+4    self.offmychest    0.230928
+
+Prediction: self.depression | Confidence: 0.45621153712272644
+Call chat bot model for Self.depression
+
+Input 107:
+This is 107th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 108:
+This is 108th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 109:
+This is 109th message
+
+--- Input Text: good
+
+Prediction: self.depression | Confidence: 0.31742262840270996--- Confidence for each classes
+[('self.Anxiety', 0.13000014), ('self.bipolar', 0.15528524), ('self.depression', 0.31742263), ('self.SuicideWatch', 0.23681994), ('self.offmychest', 0.16047199)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.130000
+1       self.bipolar    0.155285
+2    self.depression    0.317423
+3  self.SuicideWatch    0.236820
+4    self.offmychest    0.160472
+
+Prediction: self.depression | Confidence: 0.31742262840270996
+Call chat bot model for Self.depression
+
+Input 110:
+This is 110th message
+
+--- Input Text: good morning
+
+Prediction: self.depression | Confidence: 0.5576789379119873--- Confidence for each classes
+[('self.Anxiety', 0.08564049), ('self.bipolar', 0.12381334), ('self.depression', 0.55767894), ('self.SuicideWatch', 0.1922971), ('self.offmychest', 0.040570185)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.085640
+1       self.bipolar    0.123813
+2    self.depression    0.557679
+3  self.SuicideWatch    0.192297
+4    self.offmychest    0.040570
+
+Prediction: self.depression | Confidence: 0.5576789379119873
+Call chat bot model for Self.depression
+
+Input 111:
+This is 111st message
+
+--- Input Text: how are you?
+
+Prediction: self.depression | Confidence: 0.4104347229003906--- Confidence for each classes
+[('self.Anxiety', 0.22816037), ('self.bipolar', 0.2869584), ('self.depression', 0.41043472), ('self.SuicideWatch', 0.056552276), ('self.offmychest', 0.017894248)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.228160
+1       self.bipolar    0.286958
+2    self.depression    0.410435
+3  self.SuicideWatch    0.056552
+4    self.offmychest    0.017894
+
+Prediction: self.depression | Confidence: 0.4104347229003906
+Call chat bot model for Self.depression
+
+Input 112:
+This is 112nd message
+
+--- Input Text: good morning
+
+Prediction: self.depression | Confidence: 0.5576789379119873--- Confidence for each classes
+[('self.Anxiety', 0.08564049), ('self.bipolar', 0.12381334), ('self.depression', 0.55767894), ('self.SuicideWatch', 0.1922971), ('self.offmychest', 0.040570185)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.085640
+1       self.bipolar    0.123813
+2    self.depression    0.557679
+3  self.SuicideWatch    0.192297
+4    self.offmychest    0.040570
+
+Prediction: self.depression | Confidence: 0.5576789379119873
+Call chat bot model for Self.depression
+
+Input 113:
+This is 113rd message
+
+--- Input Text: good morning
+
+Prediction: self.depression | Confidence: 0.5576789379119873--- Confidence for each classes
+[('self.Anxiety', 0.08564049), ('self.bipolar', 0.12381334), ('self.depression', 0.55767894), ('self.SuicideWatch', 0.1922971), ('self.offmychest', 0.040570185)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.085640
+1       self.bipolar    0.123813
+2    self.depression    0.557679
+3  self.SuicideWatch    0.192297
+4    self.offmychest    0.040570
+
+Prediction: self.depression | Confidence: 0.5576789379119873
+Call chat bot model for Self.depression
+
+Input 114:
+This is 114th message
+
+--- Input Text: how are you?
+
+Prediction: self.depression | Confidence: 0.4104347229003906--- Confidence for each classes
+[('self.Anxiety', 0.22816037), ('self.bipolar', 0.2869584), ('self.depression', 0.41043472), ('self.SuicideWatch', 0.056552276), ('self.offmychest', 0.017894248)]
+
+Average:
+Confidence for each classes
+               class  confidence
+0       self.Anxiety    0.228160
+1       self.bipolar    0.286958
+2    self.depression    0.410435
+3  self.SuicideWatch    0.056552
+4    self.offmychest    0.017894
+
+Prediction: self.depression | Confidence: 0.4104347229003906
+Call chat bot model for Self.depression
+
