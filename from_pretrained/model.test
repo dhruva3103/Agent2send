@@ -1,0 +1,6 @@
+test:
+    accuracy    bleu-4  clen  ctpb  ctps  ctrunc  ctrunclen  exps  exs    f1  gen_n_toks  llen  loss        lr  ltpb  ltps  \
+      .07692 3.062e-10 13.23 14.23 9.953       0          0 .6998   13 .1209          11 37.85 3.315 2.317e-07 30.62 21.41   
+    ltrunc  ltrunclen   ppl  precision  recall  token_acc  token_em  total_train_updates   tpb   tps  
+    .07692      7.231 27.51      .2355   .1111      .3543    .07692                   66 44.85 31.36
+
