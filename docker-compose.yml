@@ -1,0 +1,36 @@
+version: '3.0'
+services:
+  model-server:
+    image: parlaibrowser
+    build: .
+    volumes:
+      - ./:/parlaid
+    command:
+      - python3
+      - run.py
+      - --config-path
+      - config.yml
+      - --port
+      - '10001'
+    expose:
+      - '10001'
+    ports:
+      - "8000:10001"
+
+  client-server:
+    image: parlaibrowser
+    build: .
+    restart: always
+    volumes:
+      - ./:/parlaid
+    command:
+      - python3
+      - client.py
+      - --port
+      - '10001'
+      - --host
+      - '0.0.0.0'
+    ports:
+      - "8080:8080"
+    depends_on:
+      - model-server
