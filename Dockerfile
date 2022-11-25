@@ -1,0 +1,17 @@
+FROM ubuntu
+
+# Use subdirectory as working directory
+RUN mkdir /parlaid
+WORKDIR /parlaid
+COPY ./ /parlaid
+RUN cd /parlaid
+
+USER root
+RUN apt-get clean
+RUN apt-get update
+RUN apt-get install -y python3-pip
+RUN pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cpu
+RUN pip3 install parlai transformers
+RUN pip3 install pygit2 pgzip
+RUN pip3 install -e .
+RUN python3 dwn_model/blender_90M.py
