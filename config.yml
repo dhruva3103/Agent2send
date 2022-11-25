@@ -1,0 +1,31 @@
+tasks:
+  default:
+    onboard_world: MessengerBotChatOnboardWorld
+    task_world: MessengerBotChatTaskWorld
+    timeout: 1800
+    agents_required: 1
+task_name: chatbot
+world_module: customworld.worlds
+overworld: MessengerOverworld
+max_workers: 30
+opt:  # Additional model opts go here
+  debug: True
+  models:
+    blender_90M:
+      model: transformer/generator
+      model_file: zoo:blender/blender_90M/model
+      interactive_mode: True
+      no_cuda: True
+    wizard_of_wikipedia:
+      model: projects:wizard_of_wikipedia:wizard_transformer_ranker
+      model_file: zoo:wizard_of_wikipedia/full_dialogue_retrieval_model/model
+      interactive_mode: True
+      no_cuda: True
+      override:
+        model: projects:wizard_of_wikipedia:wizard_transformer_ranker
+        model_file: zoo:wizard_of_wikipedia/full_dialogue_retrieval_model/model
+        task: wizard_of_wikipedia:BasicdialogTeacher
+        n_positions: 1000
+        ffn_size: 1200
+additional_args:
+  page_id: 1 # configure your own page
